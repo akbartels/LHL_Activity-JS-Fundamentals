@@ -265,4 +265,11 @@ for(let row = 0; row < numbers.length; row++){
     }
   }
 }
- */
+
+
+ const director = "Steven Spielberg";
+ const films = ["Jaws", "Raiders of the Lost Ark","A.I."];
+
+ console.log("My favourite " + director + " film is " + films[1]);
+console.log("films at index 0: " + films[3]) */
+
